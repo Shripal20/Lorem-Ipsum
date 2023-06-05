@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lorem-Ipsum/static/css/main.4ac94dca.css",
+    "main.js": "/Lorem-Ipsum/static/js/main.cf5a0ed3.js",
+    "index.html": "/Lorem-Ipsum/index.html",
+    "main.4ac94dca.css.map": "/Lorem-Ipsum/static/css/main.4ac94dca.css.map",
+    "main.cf5a0ed3.js.map": "/Lorem-Ipsum/static/js/main.cf5a0ed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac94dca.css",
+    "static/js/main.cf5a0ed3.js"
+  ]
+}
